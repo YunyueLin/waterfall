@@ -35,7 +35,6 @@
 		CBE5BE261DB0C2C8000DC3FE /* LYYPoolViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE1F1DB0C2C8000DC3FE /* LYYPoolViewCell.m */; };
 		CBE5BE271DB0C2C8000DC3FE /* LYYPoolModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE211DB0C2C8000DC3FE /* LYYPoolModel.m */; };
 		CBE5BE281DB0C2C8000DC3FE /* LYYPoolViewSubCel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE231DB0C2C8000DC3FE /* LYYPoolViewSubCel.m */; };
-		CBE5BE2A1DB0C3DE000DC3FE /* post.html in Resources */ = {isa = PBXBuildFile; fileRef = CBE5BE291DB0C3DE000DC3FE /* post.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -112,7 +111,6 @@
 		CBE5BE211DB0C2C8000DC3FE /* LYYPoolModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolModel.m; sourceTree = "<group>"; };
 		CBE5BE221DB0C2C8000DC3FE /* LYYPoolViewSubCel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYYPoolViewSubCel.h; sourceTree = "<group>"; };
 		CBE5BE231DB0C2C8000DC3FE /* LYYPoolViewSubCel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolViewSubCel.m; sourceTree = "<group>"; };
-		CBE5BE291DB0C3DE000DC3FE /* post.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = post.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,7 +172,6 @@
 				CBE5BDC41DB0C1A1000DC3FE /* Assets.xcassets */,
 				CBE5BDC61DB0C1A1000DC3FE /* LaunchScreen.storyboard */,
 				CBE5BDC91DB0C1A1000DC3FE /* Info.plist */,
-				CBE5BE291DB0C3DE000DC3FE /* post.html */,
 				CBE5BDB81DB0C1A1000DC3FE /* Supporting Files */,
 			);
 			path = waterfall;
@@ -371,7 +368,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBE5BDC81DB0C1A1000DC3FE /* LaunchScreen.storyboard in Resources */,
-				CBE5BE2A1DB0C3DE000DC3FE /* post.html in Resources */,
 				CBE5BDC51DB0C1A1000DC3FE /* Assets.xcassets in Resources */,
 				CBE5BE1B1DB0C263000DC3FE /* pool.plist in Resources */,
 				CBE5BDC31DB0C1A1000DC3FE /* Main.storyboard in Resources */,
