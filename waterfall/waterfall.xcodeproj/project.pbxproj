@@ -31,10 +31,10 @@
 		CBE5BE181DB0C255000DC3FE /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE071DB0C255000DC3FE /* UIImageView+HighlightedWebCache.m */; };
 		CBE5BE191DB0C255000DC3FE /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE091DB0C255000DC3FE /* UIImageView+WebCache.m */; };
 		CBE5BE1B1DB0C263000DC3FE /* pool.plist in Resources */ = {isa = PBXBuildFile; fileRef = CBE5BE1A1DB0C263000DC3FE /* pool.plist */; };
-		CBE5BE251DB0C2C8000DC3FE /* JRPoolView.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE1D1DB0C2C8000DC3FE /* JRPoolView.m */; };
-		CBE5BE261DB0C2C8000DC3FE /* JRPoolViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE1F1DB0C2C8000DC3FE /* JRPoolViewCell.m */; };
-		CBE5BE271DB0C2C8000DC3FE /* JRPoolModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE211DB0C2C8000DC3FE /* JRPoolModel.m */; };
-		CBE5BE281DB0C2C8000DC3FE /* JRPoolViewSubCel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE231DB0C2C8000DC3FE /* JRPoolViewSubCel.m */; };
+		CBE5BE251DB0C2C8000DC3FE /* LYYPoolView.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE1D1DB0C2C8000DC3FE /* LYYPoolView.m */; };
+		CBE5BE261DB0C2C8000DC3FE /* LYYPoolViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE1F1DB0C2C8000DC3FE /* LYYPoolViewCell.m */; };
+		CBE5BE271DB0C2C8000DC3FE /* LYYPoolModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE211DB0C2C8000DC3FE /* LYYPoolModel.m */; };
+		CBE5BE281DB0C2C8000DC3FE /* LYYPoolViewSubCel.m in Sources */ = {isa = PBXBuildFile; fileRef = CBE5BE231DB0C2C8000DC3FE /* LYYPoolViewSubCel.m */; };
 		CBE5BE2A1DB0C3DE000DC3FE /* post.html in Resources */ = {isa = PBXBuildFile; fileRef = CBE5BE291DB0C3DE000DC3FE /* post.html */; };
 /* End PBXBuildFile section */
 
@@ -104,14 +104,14 @@
 		CBE5BE081DB0C255000DC3FE /* UIImageView+WebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+WebCache.h"; sourceTree = "<group>"; };
 		CBE5BE091DB0C255000DC3FE /* UIImageView+WebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+WebCache.m"; sourceTree = "<group>"; };
 		CBE5BE1A1DB0C263000DC3FE /* pool.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = pool.plist; path = "../../../../百度云同步盘/ios/PD_note_iOS/note33 0817 瀑布流 坐标转换/瀑布流/瀑布流/SDWebImage/pool.plist"; sourceTree = "<group>"; };
-		CBE5BE1C1DB0C2C8000DC3FE /* JRPoolView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRPoolView.h; sourceTree = "<group>"; };
-		CBE5BE1D1DB0C2C8000DC3FE /* JRPoolView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRPoolView.m; sourceTree = "<group>"; };
-		CBE5BE1E1DB0C2C8000DC3FE /* JRPoolViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRPoolViewCell.h; sourceTree = "<group>"; };
-		CBE5BE1F1DB0C2C8000DC3FE /* JRPoolViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRPoolViewCell.m; sourceTree = "<group>"; };
-		CBE5BE201DB0C2C8000DC3FE /* JRPoolModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRPoolModel.h; sourceTree = "<group>"; };
-		CBE5BE211DB0C2C8000DC3FE /* JRPoolModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRPoolModel.m; sourceTree = "<group>"; };
-		CBE5BE221DB0C2C8000DC3FE /* JRPoolViewSubCel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JRPoolViewSubCel.h; sourceTree = "<group>"; };
-		CBE5BE231DB0C2C8000DC3FE /* JRPoolViewSubCel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JRPoolViewSubCel.m; sourceTree = "<group>"; };
+		CBE5BE1C1DB0C2C8000DC3FE /* LYYPoolView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYYPoolView.h; sourceTree = "<group>"; };
+		CBE5BE1D1DB0C2C8000DC3FE /* LYYPoolView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolView.m; sourceTree = "<group>"; };
+		CBE5BE1E1DB0C2C8000DC3FE /* LYYPoolViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYYPoolViewCell.h; sourceTree = "<group>"; };
+		CBE5BE1F1DB0C2C8000DC3FE /* LYYPoolViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolViewCell.m; sourceTree = "<group>"; };
+		CBE5BE201DB0C2C8000DC3FE /* LYYPoolModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYYPoolModel.h; sourceTree = "<group>"; };
+		CBE5BE211DB0C2C8000DC3FE /* LYYPoolModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolModel.m; sourceTree = "<group>"; };
+		CBE5BE221DB0C2C8000DC3FE /* LYYPoolViewSubCel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYYPoolViewSubCel.h; sourceTree = "<group>"; };
+		CBE5BE231DB0C2C8000DC3FE /* LYYPoolViewSubCel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYYPoolViewSubCel.m; sourceTree = "<group>"; };
 		CBE5BE291DB0C3DE000DC3FE /* post.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = post.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -248,14 +248,14 @@
 		CBE5BE241DB0C2C8000DC3FE /* 3rd */ = {
 			isa = PBXGroup;
 			children = (
-				CBE5BE1C1DB0C2C8000DC3FE /* JRPoolView.h */,
-				CBE5BE1D1DB0C2C8000DC3FE /* JRPoolView.m */,
-				CBE5BE1E1DB0C2C8000DC3FE /* JRPoolViewCell.h */,
-				CBE5BE1F1DB0C2C8000DC3FE /* JRPoolViewCell.m */,
-				CBE5BE201DB0C2C8000DC3FE /* JRPoolModel.h */,
-				CBE5BE211DB0C2C8000DC3FE /* JRPoolModel.m */,
-				CBE5BE221DB0C2C8000DC3FE /* JRPoolViewSubCel.h */,
-				CBE5BE231DB0C2C8000DC3FE /* JRPoolViewSubCel.m */,
+				CBE5BE1C1DB0C2C8000DC3FE /* LYYPoolView.h */,
+				CBE5BE1D1DB0C2C8000DC3FE /* LYYPoolView.m */,
+				CBE5BE1E1DB0C2C8000DC3FE /* LYYPoolViewCell.h */,
+				CBE5BE1F1DB0C2C8000DC3FE /* LYYPoolViewCell.m */,
+				CBE5BE201DB0C2C8000DC3FE /* LYYPoolModel.h */,
+				CBE5BE211DB0C2C8000DC3FE /* LYYPoolModel.m */,
+				CBE5BE221DB0C2C8000DC3FE /* LYYPoolViewSubCel.h */,
+				CBE5BE231DB0C2C8000DC3FE /* LYYPoolViewSubCel.m */,
 			);
 			name = 3rd;
 			path = "../../../../百度云同步盘/ios/PD_note_iOS/note33 0817 瀑布流 坐标转换/瀑布流/瀑布流";
@@ -401,17 +401,17 @@
 			files = (
 				CBE5BE181DB0C255000DC3FE /* UIImageView+HighlightedWebCache.m in Sources */,
 				CBE5BE0C1DB0C255000DC3FE /* NSData+ImageContentType.m in Sources */,
-				CBE5BE281DB0C2C8000DC3FE /* JRPoolViewSubCel.m in Sources */,
+				CBE5BE281DB0C2C8000DC3FE /* LYYPoolViewSubCel.m in Sources */,
 				CBE5BE121DB0C255000DC3FE /* SDWebImageManager.m in Sources */,
 				CBE5BE101DB0C255000DC3FE /* SDWebImageDownloader.m in Sources */,
-				CBE5BE261DB0C2C8000DC3FE /* JRPoolViewCell.m in Sources */,
+				CBE5BE261DB0C2C8000DC3FE /* LYYPoolViewCell.m in Sources */,
 				CBE5BE171DB0C255000DC3FE /* UIImage+WebP.m in Sources */,
 				CBE5BE0D1DB0C255000DC3FE /* SDImageCache.m in Sources */,
-				CBE5BE251DB0C2C8000DC3FE /* JRPoolView.m in Sources */,
+				CBE5BE251DB0C2C8000DC3FE /* LYYPoolView.m in Sources */,
 				CBE5BDC01DB0C1A1000DC3FE /* ViewController.m in Sources */,
 				CBE5BE0B1DB0C255000DC3FE /* MKAnnotationView+WebCache.m in Sources */,
 				CBE5BE0F1DB0C255000DC3FE /* SDWebImageDecoder.m in Sources */,
-				CBE5BE271DB0C2C8000DC3FE /* JRPoolModel.m in Sources */,
+				CBE5BE271DB0C2C8000DC3FE /* LYYPoolModel.m in Sources */,
 				CBE5BE161DB0C255000DC3FE /* UIImage+MultiFormat.m in Sources */,
 				CBE5BE111DB0C255000DC3FE /* SDWebImageDownloaderOperation.m in Sources */,
 				CBE5BDBD1DB0C1A1000DC3FE /* AppDelegate.m in Sources */,
@@ -660,6 +660,7 @@
 				CBE5BDE41DB0C1A1000DC3FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CBE5BDE51DB0C1A1000DC3FE /* Build configuration list for PBXNativeTarget "waterfallTests" */ = {
 			isa = XCConfigurationList;
@@ -668,6 +669,7 @@
 				CBE5BDE71DB0C1A1000DC3FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CBE5BDE81DB0C1A1000DC3FE /* Build configuration list for PBXNativeTarget "waterfallUITests" */ = {
 			isa = XCConfigurationList;
@@ -676,6 +678,7 @@
 				CBE5BDEA1DB0C1A1000DC3FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
