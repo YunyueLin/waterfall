@@ -81,7 +81,7 @@
     
 }
 
-/** 返回cell数*/
+/** 返回cell*/
 - (LYYPoolViewCell *) poolView:(LYYPoolView *) poolView cellForPoolViewAtIndex:(NSInteger) index{
     
     
@@ -133,17 +133,7 @@
 }
 
 
-/*
- https://api.weibo.com/oauth2/authorize?client_id=3500736070&&redirect_uri=https://www.baidu.com
- 
- https://www.baidu.com/?code=ef939e742d2c9c4f53cabb331d6beabd
- 
- {"access_token":"2.00XQKVcFA4juoDbc95debf4awzD2_C","remind_in":"157679999","expires_in":157679999,"uid":"5149592561"}
- https://api.weibo.com/2/statuses/home_timeline.json?access_token=2.00XQKVcFA4juoDbc95debf4awzD2_C
- 
- 
- 
- */
+
 
 
 
